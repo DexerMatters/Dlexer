@@ -1,0 +1,4 @@
+(executable
+ (public_name dlexer)
+ (name main)
+ (libraries dlexer))
